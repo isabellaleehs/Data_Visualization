@@ -1,2 +1,2 @@
-# Data_Visualization
-Collection of mini projects
+# Data Visualization Projects
+A collection of mini projects in Python
